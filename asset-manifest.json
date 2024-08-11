@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AmyneMzd/my-fitness-app/static/css/main.975d81f5.css",
-    "main.js": "/AmyneMzd/my-fitness-app/static/js/main.3b6587c6.js",
-    "index.html": "/AmyneMzd/my-fitness-app/index.html",
-    "main.975d81f5.css.map": "/AmyneMzd/my-fitness-app/static/css/main.975d81f5.css.map",
-    "main.3b6587c6.js.map": "/AmyneMzd/my-fitness-app/static/js/main.3b6587c6.js.map"
+    "main.css": "/my-fitness-app /static/css/main.975d81f5.css",
+    "main.js": "/my-fitness-app /static/js/main.3b6587c6.js",
+    "index.html": "/my-fitness-app /index.html",
+    "main.975d81f5.css.map": "/my-fitness-app /static/css/main.975d81f5.css.map",
+    "main.3b6587c6.js.map": "/my-fitness-app /static/js/main.3b6587c6.js.map"
   },
   "entrypoints": [
     "static/css/main.975d81f5.css",
